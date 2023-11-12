@@ -8,7 +8,7 @@ function indexReset(){
 }
 
 function funcPromise(){
-// indexReset()
+//indexReset()
 output.innerHTML = `
 <h5>1.Promise (Обещание):</h5><br>
    Promise - это объект, представляющий асинхронную операцию, 
@@ -74,7 +74,7 @@ fetch(url)
 }
 
 function funcClass(){
-
+<h5></h5>
 }
 
 function funcCallB(){
